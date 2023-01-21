@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Office &#8211; Recommendedbyrobots.com</title>
-	<atom:link href="https://recommendedbyrobots.com/category/office/feed/?simply_static_page=733" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recommendedbyrobots.com/category/office/feed/" rel="self" type="application/rss+xml" />
 	<link>https://recommendedbyrobots.com/</link>
 	<description></description>
 	<lastBuildDate>Tue, 17 Jan 2023 01:59:13 +0000</lastBuildDate>
@@ -64,7 +64,7 @@
 
 <div class="is-layout-flex wp-container-4 wp-block-columns">
 <div class="is-layout-flow wp-block-column">
-<figure class="wp-block-image size-large is-resized"><a href="https://amzn.to/3QsEAKY"><img decoding="async" loading="lazy" src="https://i5.walmartimages.com/asr/c4301316-8bfb-492f-89e6-b019ebf63d0a.791d39feceb017cb152b6a505eeeebd4.jpeg?odnHeight=2000&amp;odnWidth=2000&amp;odnBg=FFFFFF" alt="" width="298" height="298"/></a></figure>
+<figure class="wp-block-image size-large is-resized"><a href="https://amzn.to/3QsEAKY"><img decoding="async" src="https://i5.walmartimages.com/asr/c4301316-8bfb-492f-89e6-b019ebf63d0a.791d39feceb017cb152b6a505eeeebd4.jpeg?odnHeight=2000&amp;odnWidth=2000&amp;odnBg=FFFFFF" alt="" width="298" height="298"/></a></figure>
 </div>
 
 
