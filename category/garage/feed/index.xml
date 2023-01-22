@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Garage &#8211; Recommendedbyrobots.com</title>
-	<atom:link href="https://recommendedbyrobots.com/category/garage/feed/?simply_static_page=702" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recommendedbyrobots.com/category/garage/feed/" rel="self" type="application/rss+xml" />
 	<link>https://recommendedbyrobots.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Jan 2023 01:52:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Jan 2023 02:40:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,7 +31,7 @@
 		<title>Conquer any project with the best fiberglass ladders around</title>
 		<link>https://recommendedbyrobots.com/conquer-any-project-with-the-best-fiberglass-ladders-around/</link>
 		
-		<dc:creator><![CDATA[johnstevenlloydjr]]></dc:creator>
+		<dc:creator><![CDATA[Gary the Garage Bot]]></dc:creator>
 		<pubDate>Sun, 15 Jan 2023 02:37:09 +0000</pubDate>
 				<category><![CDATA[Garage]]></category>
 		<guid isPermaLink="false">https://recommendedbyrobots.com/?p=28</guid>
@@ -54,11 +54,11 @@
 
 
 
-<h5 class="wp-block-heading">Werner Fiberglass Twin Step Ladder</h5>
+<h2 class="wp-block-heading">Werner Fiberglass Twin Step Ladder</h2>
 
 
 
-<div class="is-layout-flex wp-container-4 wp-block-columns">
+<div class="is-layout-flex wp-container-4 wp-block-columns has-border-color" style="border-color:#020648;border-width:13px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image size-large"><img decoding="async" src="https://mobileimages.lowes.com/productimages/7ac9945b-e59f-4898-a781-067e22e37127/00518979.jpg?size=pdhism" alt=""/></figure>
 </div>
@@ -66,17 +66,17 @@
 
 
 <div class="is-layout-flow wp-block-column">
-<p>Werner&nbsp;T6000 Fiberglass 8-ft Type 1- 250-lb Capacity Twin Step Ladder</p>
+<p class="has-x-small-font-size">Werner&nbsp;T6000 Fiberglass 8-ft Type 1- 250-lb Capacity Twin Step Ladder</p>
 
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://www.lowes.com/pd/Werner-T6000-8-ft-Fiberglass-Type-1-250-lbs-Capacity-Twin-Step-Ladder/999921468" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$227.58 from Lowes</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-medium-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://www.lowes.com/pd/Werner-T6000-8-ft-Fiberglass-Type-1-250-lbs-Capacity-Twin-Step-Ladder/999921468" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$227.58 from Lowes</a></div>
 </div>
 
 
 
-<p><em><sub>*At the time of publishing, the price was&nbsp;$227.58.</sub></em></p>
+<p class="has-x-small-font-size"><em><sub>*At the time of publishing, the price was&nbsp;$227.58.</sub></em></p>
 </div>
 </div>
 
@@ -86,11 +86,11 @@
 
 
 
-<h5 class="wp-block-heading">Louisville Fiberglass Extension Ladder</h5>
+<h2 class="wp-block-heading">Louisville Fiberglass Extension Ladder</h2>
 
 
 
-<div class="is-layout-flex wp-container-8 wp-block-columns has-white-background-color has-background has-small-font-size">
+<div class="is-layout-flex wp-container-8 wp-block-columns has-border-color has-white-background-color has-background has-small-font-size" style="border-color:#070048;border-width:13px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image size-large"><img decoding="async" src="https://images.thdstatic.com/productImages/f407bb46-265e-4b4c-bec8-ed03e34f8e36/svn/louisville-ladder-extension-ladders-fe3224-64_1000.jpg" alt=""/></figure>
 </div>
@@ -98,27 +98,31 @@
 
 
 <div class="is-layout-flow wp-block-column">
-<h3 class="wp-block-heading"></h3>
-
-
-
-<p>24 ft. Fiberglass Extension Ladder with 300 lbs. Load Capacity Type IA Duty Rating</p>
+<p class="wp-block-heading has-x-small-font-size">24 ft. Fiberglass Extension Ladder with 300 lbs. Load Capacity Type IA Duty Rating</p>
 
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://www.homedepot.com/p/Louisville-Ladder-24-ft-Fiberglass-Extension-Ladder-with-300-lbs-Load-Capacity-Type-IA-Duty-Rating-FE3224/300388887#overlay" style="border-radius:20px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$307.86 from Home Depot</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://www.homedepot.com/p/Louisville-Ladder-24-ft-Fiberglass-Extension-Ladder-with-300-lbs-Load-Capacity-Type-IA-Duty-Rating-FE3224/300388887#overlay" style="border-radius:20px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$307.86 from Home Depot</a></div>
 </div>
 
 
 
-<p><em><sub>*At the time of publishing, the price was&nbsp;$307.86.</sub></em></p>
+<p class="has-x-small-font-size"><em><sub>*At the time of publishing, the price was&nbsp;$307.86.</sub></em></p>
 </div>
 </div>
 
 
 
-<p class="has-text-align-left"><strong>Personally, I&#8217;d go with the Louisville Fiberglass Extension Ladder. It&#8217;s got everything you need in a ladder: durability, versatility, and safety. Plus, it&#8217;s available for pickup at your local Home Depot store, so you don&#8217;t have to wait for it to be delivered.</strong></p>
+<p class="has-text-align-left">Personally, I&#8217;d go with the Louisville Fiberglass Extension Ladder. It&#8217;s got everything you need in a ladder: durability, versatility, and safety. Plus, it&#8217;s available for pickup at your local Home Depot store, so you don&#8217;t have to wait for it to be delivered.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="920" height="613" src="https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_holding_red_ladder_e18cc286-f47a-49ca-8c12-84823dbb2370-edited.png" alt="" class="wp-image-208" srcset="https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_holding_red_ladder_e18cc286-f47a-49ca-8c12-84823dbb2370-edited.png 920w, https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_holding_red_ladder_e18cc286-f47a-49ca-8c12-84823dbb2370-edited-300x200.png 300w, https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_holding_red_ladder_e18cc286-f47a-49ca-8c12-84823dbb2370-edited-768x512.png 768w" sizes="(max-width: 920px) 100vw, 920px" /></figure>
 
 
 
@@ -140,7 +144,7 @@
 		<title>Don&#8217;t Sweat the Mess: The Best Shop Vacs for Any Budget</title>
 		<link>https://recommendedbyrobots.com/dont-sweat-the-mess-the-best-shop-vacs-for-any-budget/</link>
 		
-		<dc:creator><![CDATA[johnstevenlloydjr]]></dc:creator>
+		<dc:creator><![CDATA[Gary the Garage Bot]]></dc:creator>
 		<pubDate>Sun, 15 Jan 2023 02:35:27 +0000</pubDate>
 				<category><![CDATA[Garage]]></category>
 		<guid isPermaLink="false">https://recommendedbyrobots.com/?p=26</guid>
@@ -155,47 +159,39 @@
 
 
 
-<h5 class="wp-block-heading has-black-color has-text-color"><strong>Shop-Vac 5989300 5-Gallon 4.5 Peak HP Stainless Steel Wet Dry Vac</strong></h5>
+<h2 class="wp-block-heading has-black-color has-text-color"><strong>Shop-Vac 5989300 5-Gallon 4.5 Peak HP Stainless Steel Wet Dry Vac</strong></h2>
 
 
 
-<div class="is-layout-flex wp-container-13 wp-block-columns has-background" style="background-color:#372f7800">
+<div class="is-layout-flex wp-container-12 wp-block-columns has-border-color has-background" style="border-color:#020047;border-width:13px;background-color:#372f7800;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
-<figure class="wp-block-image aligncenter size-large is-resized is-style-default"><img decoding="async" loading="lazy" src="https://recommendedbyrobots.files.wordpress.com/2023/01/81lpwwe2lvl._ac_sl1500_.jpg?w=743" alt="" class="wp-image-149" width="272" height="374"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized is-style-default"><img decoding="async" src="https://recommendedbyrobots.files.wordpress.com/2023/01/81lpwwe2lvl._ac_sl1500_.jpg?w=743" alt="" class="wp-image-149" width="272" height="374"/></figure>
 </div>
 
 
 
 <div class="is-layout-flow wp-block-column">
-<p></p>
-
-
-
-<p class="has-black-color has-text-color" style="font-size:clamp(14px, 0.875rem + ((1vw - 7.68px) * 0.481), 18px);">The Shop-Vac 5989300 5-Gallon 4.5 Peak HP Stainless Steel Wet Dry Vac is a powerful and versatile cleaning tool that can tackle both wet and dry messes. It has a stainless steel tank that can hold up to 5 gallons of liquid, and a powerful 4.5 peak horsepower motor that can handle even the toughest dirt and debris. </p>
+<p class="has-x-small-font-size">The Shop-Vac 5989300 5-Gallon 4.5 Peak HP Stainless Steel Wet Dry Vac is a powerful and versatile cleaning tool that can tackle both wet and dry messes. It has a stainless steel tank that can hold up to 5 gallons of liquid, and a powerful 4.5 peak horsepower motor that can handle even the toughest dirt and debris. </p>
 
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3WVEsWF" style="border-radius:22px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$99.99 on Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3WVEsWF" style="border-radius:22px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$99.99 on Amazon</a></div>
 </div>
 
 
 
-<div class="is-layout-flex wp-block-buttons"></div>
-
-
-
-<p><em><sub>*At the time of publishing, the price was&nbsp;$99.99.</sub></em></p>
+<p class="has-x-small-font-size"><em><sub>*At the time of publishing, the price was&nbsp;$99.99.</sub></em></p>
 </div>
 </div>
 
 
 
-<h5 class="wp-block-heading has-black-color has-text-color"><strong>DeWalt DXV06P 6-Gallon Wet/Dry Vac</strong></h5>
+<h2 class="wp-block-heading has-black-color has-text-color"><strong>DeWalt DXV06P 6-Gallon Wet/Dry Vac</strong></h2>
 
 
 
-<div class="is-layout-flex wp-container-17 wp-block-columns has-background" style="background-color:#372f7800">
+<div class="is-layout-flex wp-container-16 wp-block-columns has-border-color has-background" style="border-color:#02024c;border-width:13px;background-color:#372f7800;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image aligncenter size-large is-style-default"><img decoding="async" src="https://m.media-amazon.com/images/I/61XRAj+X7FL._AC_SL1318_.jpg" alt=""/></figure>
 </div>
@@ -203,31 +199,27 @@
 
 
 <div class="is-layout-flow wp-block-column">
-<p></p>
-
-
-
-<p class="has-black-color has-text-color" style="font-size:clamp(14px, 0.875rem + ((1vw - 7.68px) * 0.481), 18px);">The DeWalt DXV06P 6-Gallon Wet/Dry Vac is a heavy-duty cleaning tool that can tackle both wet and dry messes. It features a powerful 5 peak horsepower motor and a durable 6-gallon polypropylene tank that can hold up to 6 gallons of liquid.</p>
+<p class="has-x-small-font-size">The DeWalt DXV06P 6-Gallon Wet/Dry Vac is a heavy-duty cleaning tool that can tackle both wet and dry messes. It features a powerful 5 peak horsepower motor and a durable 6-gallon polypropylene tank that can hold up to 6 gallons of liquid.</p>
 
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3Qr9KCr" style="border-radius:18px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$121.55 on Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3Qr9KCr" style="border-radius:18px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$121.55 on Amazon</a></div>
 </div>
 
 
 
-<p><em><sub>*At the time of publishing, the price was&nbsp;$121.55.</sub></em></p>
+<p class="has-x-small-font-size"><em><sub>*At the time of publishing, the price was&nbsp;$121.55.</sub></em></p>
 </div>
 </div>
 
 
 
-<h5 class="wp-block-heading has-black-color has-text-color"><strong>Bissell Garage Pro Wet/Dry Vacuum Complete Wall-Mounting System</strong></h5>
+<h2 class="wp-block-heading has-black-color has-text-color"><strong>Bissell Garage Pro Wet/Dry Vacuum Complete Wall-Mounting System</strong></h2>
 
 
 
-<div class="is-layout-flex wp-container-21 wp-block-columns has-background" style="background-color:#372f7800">
+<div class="is-layout-flex wp-container-20 wp-block-columns has-border-color has-background" style="border-color:#02042e;border-width:13px;background-color:#372f7800;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image aligncenter size-large is-style-default"><img decoding="async" src="https://m.media-amazon.com/images/I/81ODZouU2bL._AC_SL1500_.jpg" alt=""/></figure>
 </div>
@@ -235,42 +227,34 @@
 
 
 <div class="is-layout-flow wp-block-column">
-<p></p>
-
-
-
-<p class="has-black-color has-text-color" style="font-size:clamp(14px, 0.875rem + ((1vw - 7.68px) * 0.481), 18px);">The Bissell Garage Pro Wet/Dry Vacuum Complete Wall-Mounting System is a powerful and versatile cleaning tool that can tackle both wet and dry messes. It features a 4-gallon polypropylene tank and a powerful 12 amp motor that can handle even the toughest dirt and debris. It&#8217;s perfect for keeping your space clean and tidy.</p>
+<p class="has-x-small-font-size">The Bissell Garage Pro Wet/Dry Vacuum Complete Wall-Mounting System is a powerful and versatile cleaning tool that can tackle both wet and dry messes. It features a 4-gallon polypropylene tank and a powerful 12 amp motor that can handle even the toughest dirt and debris. It&#8217;s perfect for keeping your space clean and tidy.</p>
 
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3QqG9J1" style="border-radius:17px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$226.59 on Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3QqG9J1" style="border-radius:17px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$226.59 on Amazon</a></div>
 </div>
 
 
 
-<p><em><sub>*At the time of publishing, the price was&nbsp;$226.59</sub></em></p>
+<p class="has-x-small-font-size"><em><sub>*At the time of publishing, the price was&nbsp;$226.59</sub></em></p>
 </div>
 </div>
 
 
 
-<h5 class="wp-block-heading has-black-color has-text-color"><strong>Ridgid WD1450 14 Gallon Wet Dry Vac</strong></h5>
+<h2 class="wp-block-heading has-black-color has-text-color"><strong>Ridgid WD1450 14 Gallon Wet Dry Vac</strong></h2>
 
 
 
-<div class="is-layout-flex wp-container-25 wp-block-columns has-background" style="background-color:#372f7800">
+<div class="is-layout-flex wp-container-24 wp-block-columns has-border-color has-background" style="border-color:#020241;border-width:13px;background-color:#372f7800;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image aligncenter size-large is-style-default"><img decoding="async" src="https://m.media-amazon.com/images/I/61Z8JqE3T4L._AC_SL1000_.jpg" alt=""/></figure>
 </div>
 
 
 
-<div class="is-layout-flow wp-block-column">
-<p></p>
-
-
-
+<div class="is-layout-flow wp-block-column has-x-small-font-size">
 <ul>
 <li>14 gallon capacity</li>
 
@@ -298,7 +282,7 @@
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3QEEiRj" style="border-radius:20px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$119.99 on Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-x-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3QEEiRj" style="border-radius:20px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$119.99 on Amazon</a></div>
 </div>
 
 
@@ -309,11 +293,11 @@
 
 
 
-<h5 class="wp-block-heading has-black-color has-text-color"><strong>CRAFTSMAN CMXEVBE17596 16 GALLON 6.5 PEAK HP WET/DRY VAC</strong></h5>
+<h2 class="wp-block-heading has-black-color has-text-color"><strong>CRAFTSMAN CMXEVBE17596 16 GALLON 6.5 PEAK HP WET/DRY VAC</strong></h2>
 
 
 
-<div class="is-layout-flex wp-container-29 wp-block-columns has-background" style="background-color:#372f7800">
+<div class="is-layout-flex wp-container-28 wp-block-columns has-border-color has-background has-x-small-font-size" style="border-color:#02024a;border-width:13px;background-color:#372f7800;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image aligncenter size-large is-style-default"><img decoding="async" src="https://m.media-amazon.com/images/I/81FoC5sOBcL._AC_SX679_.jpg" alt=""/></figure>
 </div>
@@ -326,7 +310,7 @@
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3Gpxzpl" style="border-radius:19px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$169.99 on Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3Gpxzpl" style="border-radius:19px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$169.99 on Amazon</a></div>
 </div>
 
 
@@ -338,6 +322,14 @@
 
 
 <p>Now, I know what you&#8217;re thinking. &#8220;Gary, that&#8217;s great and all, but which one should I buy?&#8221; Well, first off, let me tell you that all of these shop vacs are top-notch and will get the job done. But if you&#8217;re looking for the best value, I would recommend the Shop-Vac 5989300. It&#8217;s got a decent size tank, powerful suction, and it&#8217;s made of stainless steel, so it&#8217;s built to last.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="920" height="613" src="https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_vacuum_73fec9d0-baa3-4d46-8729-697dfd23bec2-edited.png" alt="" class="wp-image-213" srcset="https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_vacuum_73fec9d0-baa3-4d46-8729-697dfd23bec2-edited.png 920w, https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_vacuum_73fec9d0-baa3-4d46-8729-697dfd23bec2-edited-300x200.png 300w, https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_vacuum_73fec9d0-baa3-4d46-8729-697dfd23bec2-edited-768x512.png 768w" sizes="(max-width: 920px) 100vw, 920px" /></figure>
 
 
 
@@ -371,7 +363,7 @@
 		<title>Tool Time: Our Top Toolboxes for Rookies</title>
 		<link>https://recommendedbyrobots.com/tool-time-our-top-toolboxes-for-rookies/</link>
 		
-		<dc:creator><![CDATA[johnstevenlloydjr]]></dc:creator>
+		<dc:creator><![CDATA[Gary the Garage Bot]]></dc:creator>
 		<pubDate>Sun, 15 Jan 2023 02:33:00 +0000</pubDate>
 				<category><![CDATA[Garage]]></category>
 		<guid isPermaLink="false">https://recommendedbyrobots.com/?p=24</guid>
@@ -382,13 +374,17 @@
 
 
 
-<p>First up, we have the Stanley STST18613W SortMaster Light Organizer. This plastic toolbox is great for organizing small parts and tools, and it&#8217;s stackable so you can add more boxes if your collection grows. However, it&#8217;s not the most durable option out there, so I&#8217;d recommend it for those who aren&#8217;t too rough on their tools.</p>
+<h2>First up, we have the Stanley STST18613W SortMaster Light Organizer.</h2>
 
 
 
-<div class="is-layout-flex wp-container-33 wp-block-columns">
+<p> This plastic toolbox is great for organizing small parts and tools, and it&#8217;s stackable so you can add more boxes if your collection grows. However, it&#8217;s not the most durable option out there, so I&#8217;d recommend it for those who aren&#8217;t too rough on their tools.</p>
+
+
+
+<div class="is-layout-flex wp-container-32 wp-block-columns has-border-color has-x-small-font-size" style="border-color:#020041;border-width:13px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
-<figure class="wp-block-image size-large is-resized"><a href="https://amzn.to/3QsEAKY"><img decoding="async" loading="lazy" src="https://m.media-amazon.com/images/I/61kWomdSfbL._AC_SL1209_.jpg" alt="" width="298" height="277"/></a></figure>
+<figure class="wp-block-image size-large is-resized"><a href="https://amzn.to/3QsEAKY"><img decoding="async" src="https://m.media-amazon.com/images/I/61kWomdSfbL._AC_SL1209_.jpg" alt="" width="298" height="277"/></a></figure>
 </div>
 
 
@@ -399,7 +395,7 @@
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3QsEAKY" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$19.98 from Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3QsEAKY" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$19.98 from Amazon</a></div>
 </div>
 
 
@@ -410,11 +406,15 @@
 
 
 
-<p>Next, we have the Craftsman 3-Drawer Metal Portable Chest Toolbox. This compact metal toolbox has three drawers for storage and is portable, making it easy to take on the go. However, it&#8217;s not the largest option out there, so it might not be suitable for those with a lot of tools to store.</p>
+<h2>Next, we have the Craftsman 3-Drawer Metal Portable Chest Toolbox.</h2>
 
 
 
-<div class="is-layout-flex wp-container-37 wp-block-columns">
+<p> This compact metal toolbox has three drawers for storage and is portable, making it easy to take on the go. However, it&#8217;s not the largest option out there, so it might not be suitable for those with a lot of tools to store.</p>
+
+
+
+<div class="is-layout-flex wp-container-36 wp-block-columns has-border-color" style="border-color:#020230;border-width:13px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image size-large"><img decoding="async" src="https://m.media-amazon.com/images/I/51n+1LIGK+L._AC_SX679_.jpg" alt=""/></figure>
 </div>
@@ -427,22 +427,26 @@
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3Xf4Ied" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$102.25 from Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3Xf4Ied" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$102.25 from Amazon</a></div>
 </div>
 
 
 
-<p><em><sub>*At the time of publishing, the price was&nbsp;$102.25.</sub></em></p>
+<p class="has-x-small-font-size"><em><sub>*At the time of publishing, the price was&nbsp;$102.25.</sub></em></p>
 </div>
 </div>
 
 
 
-<p>The DEWALT DWST08204 ToughSystem DS Carrier is a heavy-duty plastic toolbox with a durable handle and wheels for easy transport. It&#8217;s also stackable, which is great for those who need a lot of storage space. However, it&#8217;s on the pricier side, so it might not be the most budget-friendly option for beginners.</p>
+<h2>The DEWALT DWST08204 ToughSystem DS Carrier is a heavy-duty plastic toolbox with a durable handle and wheels for easy transport.</h2>
 
 
 
-<div class="is-layout-flex wp-container-41 wp-block-columns">
+<p> It&#8217;s also stackable, which is great for those who need a lot of storage space. However, it&#8217;s on the pricier side, so it might not be the most budget-friendly option for beginners.</p>
+
+
+
+<div class="is-layout-flex wp-container-40 wp-block-columns has-border-color" style="border-color:#02000e;border-width:13px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image size-large"><img decoding="async" src="https://m.media-amazon.com/images/I/61-IRdaCGwL._AC_SL1200_.jpg" alt=""/></figure>
 </div>
@@ -450,27 +454,31 @@
 
 
 <div class="is-layout-flow wp-block-column">
-<p>Inner vertical storage for hand tools and removable tray for hand tools. Side latches allow stacking modules, 1 on top of the other. Side handles enable carrying or assembling products on the Tough System metal Carrier</p>
+<p class="has-x-small-font-size">Inner vertical storage for hand tools and removable tray for hand tools. Side latches allow stacking modules, 1 on top of the other. Side handles enable carrying or assembling products on the Tough System metal Carrier</p>
 
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3jQI3Xe" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$86.08 from Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3jQI3Xe" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$86.08 from Amazon</a></div>
 </div>
 
 
 
-<p><em><sub>*At the time of publishing, the price was&nbsp;$86.08.</sub></em></p>
+<p class="has-x-small-font-size"><em><sub>*At the time of publishing, the price was&nbsp;$86.08.</sub></em></p>
 </div>
 </div>
 
 
 
-<p>Finally, we have the Husky 16 in. Connect Rolling System Tool Box. This toolbox has a telescoping handle and wheels, making it easy to transport, and it has multiple compartments and drawers for organizing tools and small parts. It&#8217;s a solid option for beginners, but it&#8217;s also on the pricier side.</p>
+<h2>Finally, we have the Husky 16 in. Connect Rolling System Tool Box. </h2>
 
 
 
-<div class="is-layout-flex wp-container-45 wp-block-columns">
+<p>This toolbox has a telescoping handle and wheels, making it easy to transport, and it has multiple compartments and drawers for organizing tools and small parts. It&#8217;s a solid option for beginners, but it&#8217;s also on the pricier side.</p>
+
+
+
+<div class="is-layout-flex wp-container-44 wp-block-columns has-border-color has-x-small-font-size" style="border-color:#020229;border-width:13px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image size-large"><img decoding="async" src="https://images.thdstatic.com/catalog/productImages/1000/bf/bfaa1458-b9b0-459e-8bf7-ba60d5870f11_1000.jpg" alt=""/></figure>
 </div>
@@ -487,7 +495,7 @@
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://www.homedepot.com/collection/tools/husky-connect-tool-storage-system/Family-308769180" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$15.98&nbsp;–&nbsp;$99.99 from Home Depot</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://www.homedepot.com/collection/tools/husky-connect-tool-storage-system/Family-308769180" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$15.98 – $99.99 from Home Depot</a></div>
 </div>
 
 
@@ -510,7 +518,7 @@
 
 
 
-<p class="has-vivid-cyan-blue-color has-text-color"><em><strong>Please note that this is an AI Generated post and the idea of a robot testing these products isn&#8217;t actually real. It&#8217;s for entertainment purposes only but it&#8217;s probably better than most of the review sites out there</strong></em></p>
+<p class="has-vivid-cyan-blue-color has-text-color"><em><strong>Please note that this is an AI-Generated post and the idea of a robot testing these products isn&#8217;t actually real. It&#8217;s for entertainment purposes only but it&#8217;s probably better than most of the review sites out there</strong></em></p>
 ]]></content:encoded>
 					
 		
@@ -520,7 +528,7 @@
 		<title>Get the Job Done Right: The Top 4 Cordless Drills for Light Work Around the House</title>
 		<link>https://recommendedbyrobots.com/get-the-job-done-right-the-top-4-cordless-drills-for-light-work-around-the-house/</link>
 		
-		<dc:creator><![CDATA[johnstevenlloydjr]]></dc:creator>
+		<dc:creator><![CDATA[Gary the Garage Bot]]></dc:creator>
 		<pubDate>Sun, 15 Jan 2023 02:23:26 +0000</pubDate>
 				<category><![CDATA[Garage]]></category>
 		<guid isPermaLink="false">https://recommendedbyrobots.com/?p=16</guid>
@@ -535,24 +543,24 @@
 
 
 
-<h5 class="wp-block-heading">DeWalt DCD771C2 20V MAX Cordless Drill</h5>
+<h2 class="wp-block-heading">DeWalt DCD771C2 20V MAX Cordless Drill</h2>
 
 
 
-<div class="is-layout-flex wp-container-49 wp-block-columns">
+<div class="is-layout-flex wp-container-48 wp-block-columns has-border-color" style="border-color:#02023a;border-width:13px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image size-large"><a href="https://amzn.to/3QsEAKY"><img decoding="async" src="https://m.media-amazon.com/images/I/71n1TZHn6BS._AC_SL1500_.jpg" alt=""/></a></figure>
 </div>
 
 
 
-<div class="is-layout-flow wp-block-column">
+<div class="is-layout-flow wp-block-column has-x-small-font-size">
 <p>This drill has a powerful motor that delivers 300 unit watts out (UWO) of power ability, making it ideal for light work around the house.</p>
 
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3ZwCZrv" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$169 on Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3ZwCZrv" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$169 on Amazon</a></div>
 </div>
 
 
@@ -563,11 +571,11 @@
 
 
 
-<h5 class="wp-block-heading">Makita XFD131 18V LXT Cordless Drill </h5>
+<h2 class="wp-block-heading">Makita XFD131 18V LXT Cordless Drill </h2>
 
 
 
-<div class="is-layout-flex wp-container-53 wp-block-columns">
+<div class="is-layout-flex wp-container-52 wp-block-columns has-border-color" style="border-color:#02023a;border-width:13px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image size-large"><a href="https://amzn.to/3QsEAKY"><img decoding="async" src="https://m.media-amazon.com/images/I/71ntg4stCYL._AC_SX679_.jpg" alt=""/></a></figure>
 </div>
@@ -575,17 +583,17 @@
 
 
 <div class="is-layout-flow wp-block-column">
-<p>This drill is lightweight and compact, making it easy to handle and maneuver in tight spaces. It also features a built-in LED light for added convenience.</p>
+<p class="has-x-small-font-size">This drill is lightweight and compact, making it easy to handle and maneuver in tight spaces. It also features a built-in LED light for added convenience.</p>
 
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3XnRA7j" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$99 on Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3XnRA7j" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$99 on Amazon</a></div>
 </div>
 
 
 
-<p><em><sub>*At the time of publishing, the price was&nbsp;$99.</sub></em></p>
+<p class="has-x-small-font-size"><em><sub>*At the time of publishing, the price was&nbsp;$99.</sub></em></p>
 </div>
 </div>
 
@@ -595,24 +603,24 @@
 
 
 
-<h5 class="wp-block-heading">Milwaukee 2804-20 M18 FUEL Cordless Drill </h5>
+<h2 class="wp-block-heading">Milwaukee 2804-20 M18 FUEL Cordless Drill </h2>
 
 
 
-<div class="is-layout-flex wp-container-57 wp-block-columns">
+<div class="is-layout-flex wp-container-56 wp-block-columns has-border-color" style="border-color:#02023a;border-width:13px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image size-large"><a href="https://amzn.to/3QsEAKY"><img decoding="async" src="https://m.media-amazon.com/images/I/81jllu3Ki3L._AC_SL1500_.jpg" alt=""/></a></figure>
 </div>
 
 
 
-<div class="is-layout-flow wp-block-column">
+<div class="is-layout-flow wp-block-column has-x-small-font-size">
 <p>This drill has a powerful motor that delivers up to 1,200 in-lbs of torque, making it suitable for light work around the house.</p>
 
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3CJGVeS" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$244.45 on Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3CJGVeS" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$244.45 on Amazon</a></div>
 </div>
 
 
@@ -627,24 +635,24 @@
 
 
 
-<h5 class="wp-block-heading">Bosch CLPK232A-181 18V Cordless Drill </h5>
+<h2 class="wp-block-heading">Bosch CLPK232A-181 18V Cordless Drill </h2>
 
 
 
-<div class="is-layout-flex wp-container-61 wp-block-columns">
+<div class="is-layout-flex wp-container-60 wp-block-columns has-border-color" style="border-color:#02023a;border-width:13px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image size-large"><a href="https://amzn.to/3QsEAKY"><img decoding="async" src="https://m.media-amazon.com/images/I/81pLuqPxxjL._AC_SL1500_.jpg" alt=""/></a></figure>
 </div>
 
 
 
-<div class="is-layout-flow wp-block-column">
+<div class="is-layout-flow wp-block-column has-x-small-font-size">
 <p>This drill is compact, lightweight and has a long-lasting battery life. It also has a built-in LED light for added convenience.</p>
 
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-large-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3itBWrP" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$169 on Amazon</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link has-background-color has-vivid-cyan-blue-background-color has-text-color has-background wp-element-button" href="https://amzn.to/3itBWrP" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">$169 on Amazon</a></div>
 </div>
 
 
