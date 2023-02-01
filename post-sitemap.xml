@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://recommendedbyrobots.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://recommendedbyrobots.com/never-run-out-of-ice-again-our-expert-picks-for-the-best-home-ice-makers/</loc>
-		<lastmod>2023-01-22T02:28:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot4_Cyborg_chef_with_ice_machine_in_kitchen_a3bdecec-6a8c-46eb-b9d2-452cea8d5a16.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot4_Cyborg_chef_with_ice_machine_in_kitchen_37d9e285-d994-45b0-beb4-0197754250be-edited.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://recommendedbyrobots.com/8-tips-for-organizing-your-kitchen-like-a-pro/</loc>
 		<lastmod>2023-01-22T02:28:21+00:00</lastmod>
 		<image:image>
@@ -21,91 +11,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://recommendedbyrobots.com/batter-up-stand-mixer-reviews-for-every-kitchen/</loc>
-		<lastmod>2023-01-22T02:29:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot4_cyborg_chef_02fa71fe-744d-4cdf-a4c5-44b8d82a74a5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot1_this_image_with_industrial_kitchen_background_with_sta_4beaa83b-35ef-4dcc-9c5f-d48e0289dfdd-edited.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://recommendedbyrobots.com/get-crispy-and-healthy-with-these-white-air-fryer-recommendations/</loc>
-		<lastmod>2023-01-22T02:29:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot4_cyborg_chef_in_kitchen_surrounded_by_airfryers_a0c04b59-c54d-4747-944c-24a25fe77b7e.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot1_this_image_with_industrial_kitchen_background_with_air_104a90b9-e506-432f-a360-897b931c2cbc-edited.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://recommendedbyrobots.com/conquer-any-project-with-the-best-fiberglass-ladders-around/</loc>
-		<lastmod>2023-01-22T02:39:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_holding_red_ladder_in_garage_9684bb0a-fd07-478d-89b6-68adf859a041.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_holding_red_ladder_e18cc286-f47a-49ca-8c12-84823dbb2370-edited.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://recommendedbyrobots.com/dont-sweat-the-mess-the-best-shop-vacs-for-any-budget/</loc>
-		<lastmod>2023-01-22T02:39:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_vacuum_07fbafbc-3ce1-4288-a620-24c24c0f7cdd.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/meetingprepjohn_this_image_with_industrial_kitchen_background_p_c0c99807-3e65-4b7b-a770-45239507f0c7.png?w=743</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_mechanic_vacuum_73fec9d0-baa3-4d46-8729-697dfd23bec2-edited.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://recommendedbyrobots.com/standing-desks-reviewed-which-one-is-right-for-you/</loc>
-		<lastmod>2023-01-22T02:40:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot6_cyborg_woman_and_standing_desk_5a78eebb-1753-46ed-8e0b-b9e28ba4d058.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot6_cyborg_woman_and_standing_desk_9f01b796-ef4e-4747-90ec-2372cb57e968-edited.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://recommendedbyrobots.com/light-up-your-home-office-the-best-lamps-to-survive-wfh/</loc>
-		<lastmod>2023-01-22T02:40:17+00:00</lastmod>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot6_cyborg_woman_with_lamps_7b8a4a90-9fcb-4147-80a8-b1ebfd69158e.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://recommendedbyrobots.com/10-tips-for-maximizing-productivity-while-working-from-home/</loc>
 		<lastmod>2023-01-22T02:40:23+00:00</lastmod>
 		<image:image>
 			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kyle-3.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://recommendedbyrobots.com/get-the-job-done-right-the-top-4-cordless-drills-for-light-work-around-the-house/</loc>
-		<lastmod>2023-01-22T02:40:36+00:00</lastmod>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_man_cordless_drill_fe849a04-6fa7-45f8-b017-90eb2fea5967.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://recommendedbyrobots.com/tool-time-our-top-toolboxes-for-rookies/</loc>
-		<lastmod>2023-01-22T02:40:45+00:00</lastmod>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot5_Cyborg_man_with_red_tool_chest_ab0ff576-9466-43cd-999b-d3d23697cb1f.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://recommendedbyrobots.com/the-ultimate-office-organizer-comparison/</loc>
-		<lastmod>2023-01-26T14:36:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot6_cyborg_woman_and_standing_desk_9f01b796-ef4e-4747-90ec-2372cb57e968.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -116,30 +25,107 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://recommendedbyrobots.com/upgrade-your-cooking-game-with-these-top-rated-stainless-steel-pans/</loc>
-		<lastmod>2023-01-29T22:40:04+00:00</lastmod>
+		<loc>https://recommendedbyrobots.com/batter-up-stand-mixer-reviews-for-every-kitchen/</loc>
+		<lastmod>2023-02-01T04:09:04+00:00</lastmod>
 		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot4_cyborg_chef_in_kitchen_with_frying_pan_e2c362e4-274e-45aa-bd15-f242b8da0133.png</image:loc>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_3_different_stand_mixers_in_well_lit_commercial_kitc_51791cfd-2b58-4a31-8e81-401b108ed51a.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot4_cyborg_chef_in_kitchen_with_stainless_steel_pans_63fbe569-ac27-4596-9d8e-e51a56a119b4-edited.png</image:loc>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot1_this_image_with_industrial_kitchen_background_with_sta_4beaa83b-35ef-4dcc-9c5f-d48e0289dfdd-edited.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://recommendedbyrobots.com/top-5-whiskey-glasses-for-the-perfect-sipping-experience/</loc>
-		<lastmod>2023-01-29T23:01:43+00:00</lastmod>
+		<loc>https://recommendedbyrobots.com/get-crispy-and-healthy-with-these-white-air-fryer-recommendations/</loc>
+		<lastmod>2023-02-01T04:21:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot6_Cyborg_Bartender_21b4ad73-12fb-4541-82d3-c63b1fe8f915.png</image:loc>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_2_airfryers_in_a_kitchen_in_the_morning_light_ultrar_92a31128-a9d5-4ed0-8eac-8316d3987283.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot6_Cyborg_Bartender_shaking_martini_98827cf6-a2ad-4207-9540-e7e58a1ed10a-edited.png</image:loc>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/kylebot1_this_image_with_industrial_kitchen_background_with_air_104a90b9-e506-432f-a360-897b931c2cbc-edited.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://recommendedbyrobots.com/conquer-any-project-with-the-best-fiberglass-ladders-around/</loc>
+		<lastmod>2023-02-01T04:28:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_different_kinds_of_ladders_leaned_against_wall_in_mo_e82a95eb-a776-460b-a94e-ecd7cfd45806.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://recommendedbyrobots.com/dont-sweat-the-mess-the-best-shop-vacs-for-any-budget/</loc>
+		<lastmod>2023-02-01T04:36:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_shopvac_in_garage_floor_photorealistic_613cb3c0-c1d7-4790-b113-1bd1fed3401e.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://recommendedbyrobots.com/tool-time-our-top-toolboxes-for-rookies/</loc>
+		<lastmod>2023-02-01T04:41:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_toolboxes_in_professional_garage_photorealistic_3b473e7b-fa3b-4636-83ec-b48bef9ce2a3.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://recommendedbyrobots.com/get-the-job-done-right-the-top-4-cordless-drills-for-light-work-around-the-house/</loc>
+		<lastmod>2023-02-01T15:04:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_an_overhead_shot_of_a_messy_workshop_with_5_cordless_73fdca77-e8b2-41d0-86a0-62921d05abc4.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://recommendedbyrobots.com/the-ultimate-office-organizer-comparison/</loc>
+		<lastmod>2023-02-01T15:10:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/Kyle8765_an_arial_view_of_an_organized_desk_e1528882-1f93-464b-abc4-a2223f0ca7ca-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://recommendedbyrobots.com/light-up-your-home-office-the-best-lamps-to-survive-wfh/</loc>
+		<lastmod>2023-02-01T21:04:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/Kyle8765_realistic_scene_in_moden_home_office_with_three_deskla_34bb3131-d5fa-401c-8c36-764298732192.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://recommendedbyrobots.com/standing-desks-reviewed-which-one-is-right-for-you/</loc>
+		<lastmod>2023-02-01T21:05:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_standing_desks_in_modern_office_photorealistic_64c0003d-6ddd-46b0-a956-507f18685b71.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://recommendedbyrobots.com/the-best-meat-thermometers/</loc>
-		<lastmod>2023-01-29T23:44:27+00:00</lastmod>
+		<lastmod>2023-02-01T21:06:59+00:00</lastmod>
 		<image:image>
-			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/Kyle8765_Cyborg_chef_testing_meat_thermometers_in_kitchen_6f3a15a2-9dd7-4cc0-9a50-d02da971cb3e.png</image:loc>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_overhead_image_of_three_meat_thermometers_laid_out_o_b1c2253d-8a9c-4590-9ba6-c85c811a65d3.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://recommendedbyrobots.com/top-5-whiskey-glasses-for-the-perfect-sipping-experience/</loc>
+		<lastmod>2023-02-01T21:10:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_5_different_kinds_of_whiskey_glasses_set_out_on_a_ma_68114321-5cb8-49cb-be83-223e85395c0c.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://recommendedbyrobots.com/never-run-out-of-ice-again-our-expert-picks-for-the-best-home-ice-makers/</loc>
+		<lastmod>2023-02-01T21:11:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_this_ice_machine_on_a_modern_kitchen_counter_ultra-r_70acb2d4-c241-4eff-8e16-1cb5124b59bc.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://recommendedbyrobots.com/upgrade-your-cooking-game-with-these-top-rated-stainless-steel-pans/</loc>
+		<lastmod>2023-02-01T21:13:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_stainless_steal_pans_on_a_modern_kitchen_range_top_u_08d68db2-79ee-47e1-a8f7-da4629424fc5.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://recommendedbyrobots.com/the-top-4-multitools-for-every-occasion-a-hands-on-review/</loc>
+		<lastmod>2023-02-01T21:41:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://recommendedbyrobots.com/wp-content/uploads/2023/01/john_lloyd_the_great_outdoors_fee4250d-9161-40ce-9990-f946ad4595fd.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
